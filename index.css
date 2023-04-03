@@ -97,7 +97,12 @@ main {
     width: 90%;
   }
   .step2 {
-    margin: 30px auto;
+    margin: 20px auto;
     width: 90%
   }
+
+  .step-img1 , .step-img3 {
+    background-position: center
+  }
+
   }
